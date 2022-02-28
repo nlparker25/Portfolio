@@ -29,7 +29,7 @@ h3 {
 }
 
 .hero {
-  background: #f9f7fe;
+  background-color: #edf4ff;
 }
 
 p {
@@ -69,8 +69,8 @@ p {
 }
 
 .about-paragraphs {
-  display: flex;
   margin: 30px 0;
+  text-align: center;
 }
 
 .about-paragraphs p {
@@ -91,6 +91,10 @@ p {
 
 .text-center {
   text-align: center !important;
+}
+
+.text-left {
+  text-align: left !important;
 }
 
 .primary-link {
