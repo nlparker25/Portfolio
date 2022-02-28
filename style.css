@@ -131,8 +131,12 @@ p {
   }
 
   .mt-5 {
-    margin-top: 2rem!important
+    margin-top: 2rem!important;
   }
 
+
+  .text-left {
+   text-align: center!important; 
+  }
 
 }
